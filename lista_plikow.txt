@@ -1,0 +1,13 @@
+total 1096
+drwxr-xr-x  12 maciejgolianek  staff   384B 13 sty 17:10 .
+drwxr-xr-x   3 maciejgolianek  staff    96B 13 sty 17:05 ..
+-rw-r--r--   1 maciejgolianek  staff   6,0K 13 sty 16:19 .DS_Store
+drwxr-xr-x  14 maciejgolianek  staff   448B 13 sty 17:05 .git
+-rw-r--r--   1 maciejgolianek  staff   278B 13 sty 16:19 .gitignore
+drwxr-xr-x   8 maciejgolianek  staff   256B 13 sty 16:19 .idea
+-rw-r--r--   1 maciejgolianek  staff    73K 13 sty 16:19 GIT-cw_v3.pdf
+-rw-r--r--   1 maciejgolianek  staff   448K 13 sty 16:19 GIT-v3.pdf
+-rw-r--r--   1 maciejgolianek  staff    16B 13 sty 16:19 README
+-rw-r--r--   1 maciejgolianek  staff    23B 13 sty 16:19 README.md
+-rw-r--r--   1 maciejgolianek  staff     0B 13 sty 17:10 lista_plikow.txt
+-rw-r--r--   1 maciejgolianek  staff   118B 13 sty 17:10 main.sh
